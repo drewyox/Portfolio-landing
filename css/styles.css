@@ -1,0 +1,23 @@
+.sidebar {
+  float: left;
+  width: 15%;
+  text-align: center;
+  margin-top: 60px;
+  position: fixed;
+}
+
+.sidebar li {
+  text-align: left;
+  padding-top: 15px;
+  padding-bottom:15px;
+  list-style-type: none;
+}
+
+
+
+
+.header {
+  text-align: center;
+  margin-left: 20%;
+  margin-right: 20%;
+}
