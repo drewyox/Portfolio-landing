@@ -66,3 +66,22 @@
   padding: 15px;
   padding-left: 7px;
 }
+.vacationsite {
+
+}
+
+.imagefooter {
+  text-align: center;
+  padding-bottom: 25px;
+}
+
+.exampleimage{
+  height: inherit;
+  width:100%;
+  padding-bottom: 10px;
+}
+
+.col-md-4 {
+  padding-left: 20px;
+  padding-right: 20px;
+}
